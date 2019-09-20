@@ -22,7 +22,9 @@ All you have to do is install the api and the test your object detector on the o
 if all is good, then you can simply run the object_detection_image.py file or object_detection_video.py file to see an output,
 if you want to run the object_detection_webcam.py file, follow the tutorial linked above
 
-But if you want to follow the tutorial and then you wouldnt need the files i have attached
+But if you want to follow the tutorial and then you wouldnt need the files i have attached as the appendix,
+You could just follow the tutorials, The test and train images I used are in the object detection folder and when you finish training 
+your model and are ready to test you detector you can copy my collision warning code portion from the executable files in the same folder.
 
 
 #lane detectiion
