@@ -28,5 +28,6 @@ if you want to run the object_detection_webcam.py file, follow the tutorial link
 The files in edge detection folder can perfom the edge detection.
 You can run the canny python file noramlly but change image file inside if you want to test other images
 
+The holistic model is included in the appendix as its a large file
 To run the holistic model keep the ile stucture the same as you would need the pre trained weights in hed_model folder. 
 the method run this model is in the executable
