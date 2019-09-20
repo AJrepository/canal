@@ -27,6 +27,9 @@ You could just follow the tutorial, the test and train images I used are in the 
 your model and are ready to test you detector you can copy my collision warning code portion from the executable files in the same folder.
 This way you will be able to replicate my results.
 
+Also in the object detection files folder I have uploaded the output videos I got by running the testvideos using
+object_detection_video.py.
+
 
 #lane detectiion
 
