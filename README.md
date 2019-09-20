@@ -35,4 +35,4 @@ You can run the canny python file noramlly but change image file inside if you w
 
 The holistic model is included in the appendix as its a large file
 To run the holistic model keep the ile stucture the same as you would need the pre trained weights in hed_model folder. 
-The method to run this model is in the executable file.
+The method to run this model is in the executable file. The executable file is also available in the edge detection folder here
