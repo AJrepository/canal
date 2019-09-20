@@ -23,11 +23,13 @@ if all is good, then you can simply run the object_detection_image.py file or ob
 if you want to run the object_detection_webcam.py file, follow the tutorial linked above
 
 But if you want to follow the tutorial and then you wouldnt need the files i have attached as the appendix,
-You could just follow the tutorials, The test and train images I used are in the object detection folder and when you finish training 
+You could just follow the tutorial, The test and train images I used are in the object detection folder and when you finish training 
 your model and are ready to test you detector you can copy my collision warning code portion from the executable files in the same folder.
+This way you will be able to replicate my results.
 
 
 #lane detectiion
+
 The files in edge detection folder can perfom the edge detection.
 You can run the canny python file noramlly but change image file inside if you want to test other images
 
